@@ -8,7 +8,7 @@ Esta página tem como objetivo fornecer uma interface amigável e atraente para 
 
 ## Motivação
 
-Este projeto foi desenvolvido como parte de um curso de Tailwind CSS, com o objetivo de praticar e aplicar os conhecimentos adquiridos durante as aulas.
+Este projeto foi desenvolvido como parte de um curso da Alura (https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias), com o objetivo de praticar e aplicar os conhecimentos adquiridos durante as aulas.
 
 ## Características
 
